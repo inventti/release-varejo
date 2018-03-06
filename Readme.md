@@ -31,3 +31,5 @@
 - Versao 16.11.3.0
 
 - Versao 17.2.1.0
+
+Update para lançar nova versão do varejo
