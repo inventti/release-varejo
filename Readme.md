@@ -39,3 +39,5 @@ Update para lançar nova versão do varejo
 >>>>>>> cc18632533379de8708ddb24b0afe903635d8eb1
 
 - Versao 18.3.2.0
+
+- Versao 18.3.3.0
