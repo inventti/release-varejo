@@ -32,4 +32,4 @@
 
 - Versao 17.2.1.0
 
-Update para lançar nova versão do varejo
+Update para lançar nova versão do varejo \o/
